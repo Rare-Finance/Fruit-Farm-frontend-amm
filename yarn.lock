@@ -1095,9 +1095,9 @@
     regenerator-runtime "^0.13.4"
 
 "@babel/runtime@^7.8.7":
-  version "7.12.13"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.12.13.tgz#0a21452352b02542db0ffb928ac2d3ca7cb6d66d"
-  integrity sha512-8+3UMPBrjFa/6TtKi/7sehPKqfAm4g6K+YQjyyFOLUTxzOngcRZTlAVY8sc2CORJYqdHQY8gRPHmn+qo15rCBw==
+  version "7.12.18"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.12.18.tgz#af137bd7e7d9705a412b3caaf991fe6aaa97831b"
+  integrity sha512-BogPQ7ciE6SYAUPtlm9tWbgI9+2AgqSam6QivMgXgAT+fKbgppaj4ZX15MHeLC1PVF5sNk70huBu20XxWOs8Cg==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -1982,9 +1982,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@goosedefi/goose-uikit#releases":
+"@pancakeswap-libs/uikit@VikingDefi/viking-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/goosedefi/goose-uikit/tar.gz/bdb70ab2b843e7cbfde76103852cfa3435a4be1b"
+  resolved "https://codeload.github.com/VikingDefi/viking-uikit/tar.gz/68297b4ae9a7b42a433a39bf7b271a9fb37adbab"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

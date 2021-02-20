@@ -11,6 +11,13 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
+      "name": "Viking Swap",
+      "symbol": "VIKING",
+      "address": "0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "name": "Goose Golden Egg",
       "symbol": "EGG",
       "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
