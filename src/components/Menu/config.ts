@@ -40,8 +40,12 @@ const config: MenuEntry[] = [
         href: 'https://pancakeswap.info/token/0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0',
       },
       {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43',
+        label: 'CoinMarketCap',
+        href: 'https://coinmarketcap.com/currencies/viking-swap/',
+      },
+      {
+        label: 'CoinGecko',
+        href: 'https://www.coingecko.com/en/coins/viking-swap',
       },
     ]
   },
