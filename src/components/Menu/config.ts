@@ -66,7 +66,12 @@ const config: MenuEntry[] = [
         href: "https://viking-swap.medium.com/",
       },
     ],
-  }
+  },
+  {
+    label: 'Audit by Hacken',
+    icon: 'HelmetIcon',
+    href: 'https://www.vikingswap.finance/files/vikingHackenAudit.pdf',
+  },
 ]
 
 export default config
